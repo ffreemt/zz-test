@@ -1,6 +1,6 @@
 # zz-test
 
-git-extras-test branch
+git-extras-test branch 1
 
 简单IP代理池 simple_pp 是个 异步并发IP代理验证工具，速度很快，一千个代理半分钟左右可完成。
 
